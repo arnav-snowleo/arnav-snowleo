@@ -1,16 +1,42 @@
 ### Hi there 👋
 
-<!--
-**arnav-snowleo/arnav-snowleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **[Arnav Satrusal](https://www.linkedin.com/in/saurav-paul-5b4aa4178/)**, a pre-final year undergrad at IIIT Bhubaneswar, India.
 
-Here are some ideas to get you started:
+ [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@arnav&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/arnavsatrusal/)
+ [![Facebook](https://img.shields.io/static/v1.svg?label=facebook&message=@arnav&logo=facebook&style=flat&color=blue)](https://www.facebook.com/arnav.satrusal.3/)
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Have a look at my [portfolio](https://arnavsatrusal.netlify.app/) .** 
+
+[![Arnav's github stats](https://github-readme-stats.vercel.app/api?username=arnav-snowleo&show_icons=true)](https://github.com/arnav-snowleo/)
+
+
+### :gear: My skills include:
+
+- **Languages**: `C/C++`, `Java`, `HTML / CSS / JS`
+
+- **Databases**: `MySQL`, `Firebase`
+
+- **Frameworks**: `Flutter` 
+    
+- **Algorithms** , **Data-structures** 
+
+- **Operating System**: `Windows`
+    
+ME ME:
+
+- 😄 Pronouns: he/him
+- 🔭 I’m currently working on something xD.
+- 👯 I would love to collaborate on Flutter projects.
+- 📫 How to reach me:  / **[Linkedin](https://www.linkedin.com/in/arnavsatrusal/)**  
+- 💬 Ask me about Algorithms, Data Structure , Flutter , C++ 
+- 🌱 I write poems sometimes and love reading english composirions .
+- ⚡ Fun fact:  I'm not a nerd 😄 , but an introvert 😅
+
+
+### :handshake: Always happy to help!
+
+
+### :hugs: Breathe ! Value ! Cherish ! Stay Safe ! Tadaa! 
+
+Thank you so much for visiting my Github Profile :v:
