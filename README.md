@@ -4,6 +4,7 @@ I'm **[Arnav Satrusal](https://www.linkedin.com/in/saurav-paul-5b4aa4178/)**, a 
 
  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@arnav&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/arnavsatrusal/)
  [![Facebook](https://img.shields.io/static/v1.svg?label=facebook&message=@arnav&logo=facebook&style=flat&color=blue)](https://www.facebook.com/arnav.satrusal.3/)
+ [![Twitter](https://img.shields.io/static/v1.svg?label=facebook&message=@arnav&logo=twitter&style=flat&color=blue)](https://twitter.com/ASatrusal)
  
 
 **Have a look at my [portfolio](https://arnavsatrusal.netlify.app/) .** 
@@ -38,5 +39,3 @@ ME ME:
 
 
 ### :hugs: Breathe ! Value ! Cherish ! Stay Safe ! Tadaa! 
-
-Thank you so much for visiting my Github Profile :v:
