@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **[Arnav Satrusal](https://www.linkedin.com/in/arnavsatrusal/)**, a pre-final year undergrad at IIIT Bhubaneswar, India.
+I'm **[Arnav Satrusal](https://www.linkedin.com/in/arnavsatrusal/)**, a final year undergrad at IIIT Bhubaneswar, India.
 
  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@arnav&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/arnavsatrusal/)
  [![Facebook](https://img.shields.io/static/v1.svg?label=facebook&message=@arnav&logo=facebook&style=flat&color=blue)](https://www.facebook.com/arnav.satrusal.3/)
@@ -22,7 +22,7 @@ I'm **[Arnav Satrusal](https://www.linkedin.com/in/arnavsatrusal/)**, a pre-fina
     
 - **Algorithms** , **Data-structures** 
 
-- **Operating System**: `Windows`
+- **Operating System**: `Windows` `EndeavourOS`
     
 ME ME:
 
@@ -32,10 +32,10 @@ ME ME:
 - 📫 How to reach me:  / **[Linkedin](https://www.linkedin.com/in/arnavsatrusal/)**  
 - 💬 Ask me about Algorithms, Data Structure , Flutter , C++ 
 - 🌱 I write poems sometimes and love reading english composirions .
-- ⚡ Fun fact:  I'm not a nerd 😄 , but an introvert 😅
+- ⚡ anuv jain // cricket // december
 
 
 ### :handshake: Always happy to help!
 
 
-### :hugs: Breathe ! Value ! Cherish ! Stay Safe ! Tadaa! 
+### :hugs: Breathe ! Value ! Cherish ! Tadaa! 
