@@ -21,8 +21,6 @@ I'm **[Arnav Satrusal](https://www.linkedin.com/in/arnavsatrusal/)**, a final ye
 - **Frameworks**: `Flutter` 
     
 - **Algorithms** , **Data-structures** 
-
-- **Operating System**: `Windows` `EndeavourOS`
     
 ME ME:
 
@@ -32,10 +30,10 @@ ME ME:
 - 📫 How to reach me:  / **[Linkedin](https://www.linkedin.com/in/arnavsatrusal/)**  
 - 💬 Ask me about Algorithms, Data Structure , Flutter , C++ 
 - 🌱 I write poems sometimes and love reading english composirions .
-- ⚡ anuv jain // cricket // december
+- ⚡ my happy place: anuv jain // cricket // december
 
 
 ### :handshake: Always happy to help!
 
 
-### :hugs: Breathe ! Value ! Cherish ! Tadaa! 
+### :hugs: Breathe, Value and Cherish !!
